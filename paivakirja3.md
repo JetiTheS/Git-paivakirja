@@ -19,3 +19,4 @@ __Kommenttini opintojaksosta, esim. sisällöstä, materiaalista, työmääräst
 Mielestäni kurssi oli kokonaisuutena oikein hyvä tutustuminen siihen miten git:iä käytetään, tämä kurssi on hyvä käydä että saa vankan pohjan ja ymmärryksen ohjelmointi kursseja varten.
 
 Kurssin tehtävien ohjeet ovat selkeät ja helposti seurattavia, kurssilla tuli käytettyä myös komentoja mitä en ole itse vielä käyttänyt, kuten revert.
+Ohjeistus tai vinkkaus miten repo siirretään omalle github tilille voisi olla hyvä lisäys.
